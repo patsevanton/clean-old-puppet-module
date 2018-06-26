@@ -1,2 +1,1 @@
-# clean-old-puppet-module
-Clean old puppet module
+Delete old puppet config in /usr/share/puppet/modules

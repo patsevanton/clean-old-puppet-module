@@ -1,0 +1,1 @@
+45 8 * * * root cd /usr/share/puppet/modules; /usr/local/bin/clean-old-puppet-modules.py |& tee /var/log/clean-old-puppet-modules.log
